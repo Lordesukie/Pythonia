@@ -1,0 +1,67 @@
+{
+    "cat": {
+        "sound": "meows",
+        "group": "mammal",
+        "feature": "whiskers and cute paws"
+    },
+    "monkey": {
+        "sound": "ooo-ooo",
+        "group": "mammal",
+        "feature": "agile body and a tail"
+    },
+    "elephant": {
+        "sound": "trunks",
+        "group": "mammal",
+        "feature": "think skin and a trunk"
+    },
+    "dog": {
+        "sound": "barks ",
+        "group": "mammal",
+        "feature": "sharp teeth and a tail"
+    },
+    "lion": {
+        "sound": "roars",
+        "group": "mammal",
+        "feature": "think skin and fast moving"
+    },
+    "snake": {
+        "sound": "hisses",
+        "group": "reptile",
+        "feature": "slippery skin and fast moving"
+    },
+    "eagle": {
+        "sound": "squeals",
+        "group": "bird",
+        "feature": "sharp eyed and fast moving"
+    },
+    "falcon": {
+        "sound": "makes a falcon sound",
+        "group": "bird",
+        "feature": "sharp eyed and fast moving"
+    },
+    "sparrow": {
+        "sound": "makes a sparrow sound",
+        "group": "bird",
+        "feature": "small body and fast moving"
+    },
+    "shark": {
+        "sound": "makes a shark sound",
+        "group": "fish",
+        "feature": "sharp teeth and fast moving"
+    },
+    "horse": {
+        "sound": "neigh",
+        "group": "mammal",
+        "feature": "run fast"
+    },
+    "mice": {
+        "sound": "mik",
+        "group": "mam",
+        "feature": "runs"
+    },
+    "hey": {
+        "sound": "yes",
+        "group": "yuh",
+        "feature": "yup"
+    }
+}
